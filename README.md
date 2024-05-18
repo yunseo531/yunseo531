@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yunseo531
 - 👀 I’m interested in exercising, recording and traveling abroad
-- 🌱 I’m currently learning programming
 
 
 <!---
